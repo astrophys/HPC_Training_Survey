@@ -1,4 +1,4 @@
-# Bash Environment and Managing Software
+# Survey
 ## Introduction
 This a survey for the HPC Training classes that I'm developing.
 
