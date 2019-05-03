@@ -1,4 +1,4 @@
-# Survey
+# HPC Training Survey
 ## Introduction
 This a survey for the HPC Training classes that I'm developing.
 
